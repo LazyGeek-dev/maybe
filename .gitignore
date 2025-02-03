@@ -54,6 +54,7 @@
 
 # Ignore .devcontainer files
 compose-dev.yaml
+docker-compose.yml
 
 # Ignore asdf ruby version file
 .tool-versions
